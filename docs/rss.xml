@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lsyyyy11.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lsyyyy11.github.io</link></image><lastBuildDate>Mon, 05 Aug 2024 07:19:08 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>免费提供的公共CDN</title><link>https://lsyyyy11.github.io/post/mian-fei-ti-gong-de-gong-gong-CDN.html</link><description># Github&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://lsyyyy11.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lsyyyy11.github.io</link></image><lastBuildDate>Mon, 05 Aug 2024 13:52:10 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>免费提供的公共Github CDN</title><link>https://lsyyyy11.github.io/post/mian-fei-ti-gong-de-gong-gong-Github%20CDN.html</link><description># Github&#13;
 &#13;
 例如，您的仓库地址为&#13;
 ```&#13;
@@ -22,25 +22,5 @@ https://raw.githubusercontent.com/[:user]/[:repo]/master/[:file].txt&#13;
 #### Statically&#13;
 &#13;
     https://cdn.statically.io/gh/lsyyyy11/cdn-fictional-memory/main/README.md&#13;
-&#13;
-# Image&#13;
-&#13;
-#### 示例&#13;
-&#13;
-例如，您的图片地址为 &#13;
-```&#13;
-img.lsyyyy01.cloudns.ch/folderA/folderB/aaa.png&#13;
-```&#13;
-&#13;
-#### Statically&#13;
-&#13;
-```&#13;
-cdn.statically.io/img/[:domain]/[:params]/[:file]&#13;
-```&#13;
-&#13;
-```&#13;
-https://cdn.statically.io/img/img.lsyyyy01.cloudns.ch/folderA/folderB/aaa.png&#13;
-```&#13;
-&#13;
-[Statically Docs](https://statically.io/docs/using-images/) | 实际测试中，我认为Statically就是将 Statically 的链接跳转到 `example.imgcdn.com/aaa.png` 。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/mian-fei-ti-gong-de-gong-gong-CDN.html</guid><pubDate>Mon, 05 Aug 2024 07:18:39 +0000</pubDate></item><item><title>Hello, World!</title><link>https://lsyyyy11.github.io/post/Hello%2C%20World%21.html</link><description>The first blog.&#13;
+。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/mian-fei-ti-gong-de-gong-gong-Github%20CDN.html</guid><pubDate>Mon, 05 Aug 2024 07:18:39 +0000</pubDate></item><item><title>Hello, World!</title><link>https://lsyyyy11.github.io/post/Hello%2C%20World%21.html</link><description>The first blog.&#13;
 Test Successfully! 。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/Hello%2C%20World%21.html</guid><pubDate>Tue, 16 Jul 2024 03:19:41 +0000</pubDate></item></channel></rss>
