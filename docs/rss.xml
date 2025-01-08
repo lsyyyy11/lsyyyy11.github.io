@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lsyyyy11's blog</title><link>https://lsyyyy11.github.io</link><description>主页：755554.xyz</description><copyright>lsyyyy11's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lsyyyy11.github.io</link></image><lastBuildDate>Sun, 05 Jan 2025 11:34:37 +0000</lastBuildDate><managingEditor>lsyyyy11's blog</managingEditor><ttl>60</ttl><webMaster>lsyyyy11's blog</webMaster><item><title>Cloudflare 分配了8个IP</title><link>https://lsyyyy11.github.io/post/Cloudflare%20-fen-pei-le-8-ge-IP.html</link><description>我试了下用cf代理blog.755554.xyz，给了这几个IP:&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lsyyyy11's blog</title><link>https://lsyyyy11.github.io</link><description>主页：755554.xyz</description><copyright>lsyyyy11's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lsyyyy11.github.io</link></image><lastBuildDate>Wed, 08 Jan 2025 09:16:11 +0000</lastBuildDate><managingEditor>lsyyyy11's blog</managingEditor><ttl>60</ttl><webMaster>lsyyyy11's blog</webMaster><item><title>Cloudflare 分配了8个IP</title><link>https://lsyyyy11.github.io/post/Cloudflare%20-fen-pei-le-8-ge-IP.html</link><description>我试了下用cf代理blog.755554.xyz，给了这几个IP:&#13;
 ```&#13;
 Clouflare &#13;
 v4超时：76/76/77/71/67 ~73.4&#13;
@@ -50,9 +50,12 @@ Github Pages&#13;
 &#13;
 现在CF也明确禁止优选IP了，就这样吧。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/Cloudflare%20-fen-pei-le-8-ge-IP.html</guid><pubDate>Wed, 01 Jan 2025 11:19:48 +0000</pubDate></item><item><title>分享6位数未注册的好看的xyz域名</title><link>https://lsyyyy11.github.io/post/fen-xiang-6-wei-shu-wei-zhu-ce-de-hao-kan-de-xyz-yu-ming.html</link><description>xyz建议在Namesilo注册，(应该) 只有他家续费也是$0.99。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/fen-xiang-6-wei-shu-wei-zhu-ce-de-hao-kan-de-xyz-yu-ming.html</guid><pubDate>Tue, 31 Dec 2024 16:16:28 +0000</pubDate></item><item><title>硬盘怎么选</title><link>https://lsyyyy11.github.io/post/ying-pan-zen-me-xuan.html</link><description># 这年头抖音卖假硬盘的越来越猖獗了&#13;
 &#13;
-2T的硬盘，U盘，卖几十块。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/ying-pan-zen-me-xuan.html</guid><pubDate>Tue, 13 Aug 2024 02:46:28 +0000</pubDate></item><item><title>[待补图] 利用 G-Core 免费 CDN 服务对网站进行加速</title><link>https://lsyyyy11.github.io/post/%5B-dai-bu-tu-%5D%20-li-yong-%20G-Core%20-mian-fei-%20CDN%20-fu-wu-dui-wang-zhan-jin-xing-jia-su.html</link><description># 利用 G-Core 免费 CDN 服务对网站进行加速&#13;
+2T的硬盘，U盘，卖几十块。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/ying-pan-zen-me-xuan.html</guid><pubDate>Tue, 13 Aug 2024 02:46:28 +0000</pubDate></item><item><title>G-Core 免费 CDN IP优选</title><link>https://lsyyyy11.github.io/post/G-Core%20-mian-fei-%20CDN%20IP-you-xuan.html</link><description># IP列表&#13;
+https://[api.gcore.com/cdn/public-ip-list](https://api.gcore.com/cdn/public-ip-list)&#13;
+自行下载，然后处理，或者用我处理好的：&#13;
+```&#13;
 &#13;
-大家都知道[赛博活佛CF](https://cloudflare.com)提供的免费CDN加速，在国外，G-Core也是比较出名的。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/%5B-dai-bu-tu-%5D%20-li-yong-%20G-Core%20-mian-fei-%20CDN%20-fu-wu-dui-wang-zhan-jin-xing-jia-su.html</guid><pubDate>Wed, 07 Aug 2024 06:02:48 +0000</pubDate></item><item><title>免费提供的公共图片CDN</title><link>https://lsyyyy11.github.io/post/mian-fei-ti-gong-de-gong-gong-tu-pian-CDN.html</link><description># Image&#13;
+```。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/G-Core%20-mian-fei-%20CDN%20IP-you-xuan.html</guid><pubDate>Wed, 07 Aug 2024 06:02:48 +0000</pubDate></item><item><title>免费提供的公共图片CDN</title><link>https://lsyyyy11.github.io/post/mian-fei-ti-gong-de-gong-gong-tu-pian-CDN.html</link><description># Image&#13;
 &#13;
 #### 示例&#13;
 &#13;
