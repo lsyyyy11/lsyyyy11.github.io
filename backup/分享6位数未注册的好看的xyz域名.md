@@ -2,6 +2,8 @@ xyz建议在Namesilo注册，(应该) 只有他家续费也是$0.99。
 搜索域名：[Namesilo](https://www.namesilo.com/domain/search-domains?rid=8528778gk)
 优惠券：`lsyyyy01`，官方说有效期2025/11/31，可减$1（抵消首年$0.99），也可以开小号注册新的域名。
 
+建议买完第一年免费转移到 [Spaceship](https://spaceship.com) ，$0.67/年，新注续费转移同价
+
 # 6位数
 ## 4位连号xyz 域名：
 ```
