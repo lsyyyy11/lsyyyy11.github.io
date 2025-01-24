@@ -1,5 +1,65 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lsyyyy11's blog</title><link>https://lsyyyy11.github.io</link><description>主页：755554.xyz</description><copyright>lsyyyy11's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lsyyyy11.github.io</link></image><lastBuildDate>Wed, 08 Jan 2025 09:16:11 +0000</lastBuildDate><managingEditor>lsyyyy11's blog</managingEditor><ttl>60</ttl><webMaster>lsyyyy11's blog</webMaster><item><title>Cloudflare 分配了8个IP</title><link>https://lsyyyy11.github.io/post/Cloudflare%20-fen-pei-le-8-ge-IP.html</link><description>我试了下用cf代理blog.755554.xyz，给了这几个IP:&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>lsyyyy11's blog</title><link>https://lsyyyy11.github.io</link><description>主页：755554.xyz</description><copyright>lsyyyy11's blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://lsyyyy11.github.io</link></image><lastBuildDate>Fri, 24 Jan 2025 16:21:11 +0000</lastBuildDate><managingEditor>lsyyyy11's blog</managingEditor><ttl>60</ttl><webMaster>lsyyyy11's blog</webMaster><item><title>支付宝五福攻略(待更新)</title><link>https://lsyyyy11.github.io/post/zhi-fu-bao-wu-fu-gong-lve-%28-dai-geng-xin-%29.html</link><description>
+# 得福卡
+## A.西游闯关集福卡
+
+## B.去解锁西游人物
+
+## C.关注作者去打榜
+
+## D.参与答题PK赛
+
+## E.看一看热门视频
+
+## F.游戏中心赚福豆
+
+## G.玩小游戏攒红包
+
+## H.和爸妈开亲密号（怀疑只有部分人有）
+
+## I.扫一下主题图片
+
+ ~~泡泡玛特 五路财神~~ 
+
+&lt;details&gt;
+
+&lt;summary&gt;经典五福/北京环球度假区/NBA新春贺岁/电影封神第二部/奶龙/米奇和朋友们//KFC孙颖莎 &lt;/summary&gt;
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/traditional_fu.png)
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/universal_beijing_resort.png)
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/nba.png)
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/fs.png)
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/nai_long.png)
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/mi_qi.png)
+
+![Image](https://github.com/lsyyyy01-web/cdn-ubiquitous-rotary-phone/raw/refs/heads/main/blog_image/8_zhi_fu_bao/I_sao_yi_xia_zhu_ti_tu_pian/kfc.png)
+
+&lt;/details&gt;
+
+~~赞萌露比，熊出没·重启未来，漫威，蛋仔排队，乐高，上美影动画，郑钦文，蚂蚁庄园~~
+&lt;details&gt;
+
+&lt;summary&gt;赞萌露比，熊出没·重启未来，漫威，蛋仔排队，乐高，上美影动画，郑钦文，蚂蚁庄园&lt;/summary&gt;
+
+&lt;/details&gt;
+
+~~英雄联盟双城之战，甄嬛传，金铲铲之战，立白福到家，射雕英雄传：侠之大使，蚂蚁森林，爱他美卓傲3，恋与深空~~
+
+## J.去森林铺光伏板
+
+## K.给庄园好友拜年
+
+## L.去庄园家庭逛逛
+
+## M.祈福抽新年礼品
+
+## N.看缴费攻略集卡
+这个是创建一个”家庭“。</description><guid isPermaLink="true">https://lsyyyy11.github.io/post/zhi-fu-bao-wu-fu-gong-lve-%28-dai-geng-xin-%29.html</guid><pubDate>Mon, 20 Jan 2025 18:41:25 +0000</pubDate></item><item><title>Cloudflare 分配了8个IP</title><link>https://lsyyyy11.github.io/post/Cloudflare%20-fen-pei-le-8-ge-IP.html</link><description>我试了下用cf代理blog.755554.xyz，给了这几个IP:&#13;
 ```&#13;
 Clouflare &#13;
 v4超时：76/76/77/71/67 ~73.4&#13;
